@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nehaupadhyay/WF/Neha_Stuff/Git_Downloads/Microservices/TeamsService/src/Corp.TeamService/Corp.TeamService.csproj": {}
+    "/Users/nehaupadhyay/WF/Neha_Stuff/Git_Downloads/TeamsService/src/Corp.TeamService/Corp.TeamService.csproj": {}
   },
   "projects": {
-    "/Users/nehaupadhyay/WF/Neha_Stuff/Git_Downloads/Microservices/TeamsService/src/Corp.TeamService/Corp.TeamService.csproj": {
+    "/Users/nehaupadhyay/WF/Neha_Stuff/Git_Downloads/TeamsService/src/Corp.TeamService/Corp.TeamService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nehaupadhyay/WF/Neha_Stuff/Git_Downloads/Microservices/TeamsService/src/Corp.TeamService/Corp.TeamService.csproj",
+        "projectUniqueName": "/Users/nehaupadhyay/WF/Neha_Stuff/Git_Downloads/TeamsService/src/Corp.TeamService/Corp.TeamService.csproj",
         "projectName": "Corp.TeamService",
-        "projectPath": "/Users/nehaupadhyay/WF/Neha_Stuff/Git_Downloads/Microservices/TeamsService/src/Corp.TeamService/Corp.TeamService.csproj",
+        "projectPath": "/Users/nehaupadhyay/WF/Neha_Stuff/Git_Downloads/TeamsService/src/Corp.TeamService/Corp.TeamService.csproj",
         "packagesPath": "/Users/nehaupadhyay/.nuget/packages/",
-        "outputPath": "/Users/nehaupadhyay/WF/Neha_Stuff/Git_Downloads/Microservices/TeamsService/src/Corp.TeamService/obj/",
+        "outputPath": "/Users/nehaupadhyay/WF/Neha_Stuff/Git_Downloads/TeamsService/src/Corp.TeamService/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nehaupadhyay/.config/NuGet/NuGet.Config"
